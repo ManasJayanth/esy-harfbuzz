@@ -1,3 +1,4 @@
+#! /bin/sh
 
 INCLUDE=$cur__install/include/harfbuzz
 

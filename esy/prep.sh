@@ -1,3 +1,5 @@
+#! /bin/sh
+
 cp -rp harfbuzz-2.6.8 _build
 
 cd _build
